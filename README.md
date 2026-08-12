@@ -18,8 +18,6 @@ The project was developed as a follow-up to the submitted research work:
 
 > **Adaptive Bottleneck Networks with Learnable Latent Compression for EEG Epileptic Seizure Classification**
 
-The parent work used BEED's X1–X16 features, but their original feature-computation methodology is not fully documented. This project therefore takes an alternative, interpretable approach by constructing standard biomedical signal-processing features directly from EEG recordings.
-
 ---
 
 ## Dataset
